@@ -16,6 +16,4 @@ Up and Down the River is probably one of the most addictive card games around, s
 10. Gather up the cards and pass them to the next dealer. Play continues around the table, either dealing more or less cards, in a clockwise direction following the same rules already described as you go up and down the river.
 11. Win the game of Up and Down the River by ending with the most points.
 
-## The Scoring
-
 ## The App
